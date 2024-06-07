@@ -28,4 +28,4 @@ jobs:
       run: go test -v ./...
 
     - name: playingwithactions
-      uses: AlexVance-CapTech/PlayingWitchActions@v1
+      uses: AlexVance-CapTech/PlayingWithActions@v1
